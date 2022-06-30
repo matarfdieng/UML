@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T19:30:48.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="BpmH7q0xs3hvFAA1oV7O" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-30T19:33:37.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="c2UOuriQ3M-A2040gNcU" version="20.0.4" type="github">
   <diagram id="VJx58dD6pLhq1EvKsnwu" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
         <mxCell id="XgcNhP053a7_3OCy9ou7-8" value="restituer livre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="220" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XgcNhP053a7_3OCy9ou7-9" value="emprunter livre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XgcNhP053a7_3OCy9ou7-9" value="emprunter lvre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="274" y="120" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XgcNhP053a7_3OCy9ou7-13" value="fixer date retour" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
